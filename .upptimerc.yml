@@ -13,9 +13,9 @@ sites:
     url: ws.start.lbxs.dev
   - name: CORSAnywhere proxy instance
     url: cors-proxy.lbxs.dev
-  - name: Demo website: hackathon
+  - name: "**Demo website**: hackathon"
     url: hackathon.leoboyer.dev
-  - name: Demo website: plateformes
+  - name: "**Demo website**: plateformes"
     url: plateformes.leoboyer.dev
   - name: Piou, the grape game
     url: piou.app
