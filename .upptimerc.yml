@@ -1,17 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: leoboyerbx # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: "Léo Boyer portfolio --> production"
+    url: www.leoboyer.fr
+  - name: Assets
+    url: assets.leoboyer.fr
+  - name: pnkStartpage
+    url: start.lbxs.dev
+  - name: pnkStartpage Web servuce
+    url: ws.start.lbxs.dev
+  - name: CORSAnywhere proxy instance
+    url: cors-proxy.lbxs.dev
+  - name: **Demo website:** hackathon
+    url: hackathon.leoboyer.dev
+  - name: **Demo website:** plateformes
+    url: plateformes.leoboyer.dev
+  - name: Piou, the grape game
+    url: piou.app
+  - name: ColorJS
+    url: www.colorjs.cc
+  - name: ColorJS CDN
+    url: cdn.colorjs.cc
+  - name: ColorJS Sync service
+    url: sync.colorjs.cc
+  - name: '"Flirt sans épines" --> production'
+    url: www.flirtsansepines.cf
+  - name: Locked in 60'
+    url: www.lockedin60.ml
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -19,8 +36,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Lbxs Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "LBXS network service status."
+  introMessage: ""
   navbar:
     - title: Status
       href: /
