@@ -24,6 +24,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Legacy
+      href: https://lbxs.dev/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
