@@ -22,18 +22,20 @@
     "url": "assets.leoboyer.fr",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "assets",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 766,
     "timeDay": 829,
     "timeWeek": 783,
     "timeMonth": 766,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 4
+    }
   },
   {
     "name": "pnkStartpage",
@@ -58,136 +60,150 @@
     "url": "ws.start.lbxs.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pnk-startpage-web-servuce",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 731,
     "timeDay": 919,
     "timeWeek": 782,
     "timeMonth": 731,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 3
+    }
   },
   {
     "name": "CORSAnywhere proxy instance",
     "url": "cors-proxy.lbxs.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cors-anywhere-proxy-instance",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 720,
     "timeDay": 842,
     "timeWeek": 725,
     "timeMonth": 720,
     "timeYear": 720,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 3
+    }
   },
   {
     "name": "**Demo website**: hackathon",
     "url": "hackathon.leoboyer.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "demo-website-hackathon",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 749,
     "timeDay": 882,
     "timeWeek": 771,
     "timeMonth": 749,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 3
+    }
   },
   {
     "name": "**Demo website**: plateformes",
     "url": "plateformes.leoboyer.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "demo-website-plateformes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 555,
     "timeDay": 650,
     "timeWeek": 577,
     "timeMonth": 555,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 2
+    }
   },
   {
     "name": "Piou, the grape game",
     "url": "piou.app",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "piou-the-grape-game",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1132,
     "timeDay": 1318,
     "timeWeek": 1173,
     "timeMonth": 1132,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 2
+    }
   },
   {
     "name": "ColorJS",
     "url": "www.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 672,
     "timeDay": 739,
     "timeWeek": 689,
     "timeMonth": 672,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 2
+    }
   },
   {
     "name": "ColorJS CDN",
     "url": "cdn.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js-cdn",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 761,
     "timeDay": 856,
     "timeWeek": 784,
     "timeMonth": 761,
     "timeYear": 761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 1
+    }
   },
   {
     "name": "ColorJS Sync service",
     "url": "sync.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js-sync-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
@@ -195,17 +211,19 @@
     "timeWeek": 686,
     "timeMonth": 641,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 1
+    }
   },
   {
     "name": "\"Flirt sans épines\" --> production",
     "url": "www.flirtsansepines.cf",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flirt-sans-epines-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1979,
@@ -213,16 +231,18 @@
     "timeWeek": 894,
     "timeMonth": 1979,
     "timeYear": 1979,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 1
+    }
   },
   {
     "name": "Locked in 60'",
     "url": "www.lockedin60.ml",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "locked-in-60",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -231,6 +251,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 0
+    }
   }
 ]
