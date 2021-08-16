@@ -166,19 +166,19 @@
     "url": "cdn.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js-cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 667,
-    "timeWeek": 792,
-    "timeMonth": 748,
-    "timeYear": 755,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 763,
+    "timeDay": 868,
+    "timeWeek": 827,
+    "timeMonth": 758,
+    "timeYear": 763,
     "dailyMinutesDown": {
-      "2021-08-16": 0
+      "2021-08-16": 7
     }
   },
   {
