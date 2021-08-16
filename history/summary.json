@@ -112,9 +112,9 @@
     "url": "plateformes.leoboyer.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "demo-website-plateformes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 579,
     "timeMonth": 550,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-16": 0
+    }
   },
   {
     "name": "Piou, the grape game",
