@@ -130,9 +130,9 @@
     "url": "piou.app",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "piou-the-grape-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 1118,
     "timeMonth": 1127,
     "timeYear": 1121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-28": 0
+    }
   },
   {
     "name": "ColorJS",
