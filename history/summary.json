@@ -202,10 +202,10 @@
     "url": "www.flirtsansepines.cf",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flirt-sans-epines-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1602,
@@ -213,16 +213,18 @@
     "timeWeek": 1418,
     "timeMonth": 1333,
     "timeYear": 1602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-04": 1
+    }
   },
   {
     "name": "Locked in 60'",
     "url": "www.lockedin60.ml",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "locked-in-60",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -231,6 +233,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-04": 0
+    }
   }
 ]
