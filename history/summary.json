@@ -202,19 +202,19 @@
     "url": "www.flirtsansepines.cf",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flirt-sans-epines-production",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1602,
-    "timeDay": 741,
-    "timeWeek": 1418,
-    "timeMonth": 1333,
-    "timeYear": 1602,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 1585,
+    "timeDay": 678,
+    "timeWeek": 1318,
+    "timeMonth": 1311,
+    "timeYear": 1585,
     "dailyMinutesDown": {
-      "2021-09-04": 1
+      "2021-09-04": 27
     }
   },
   {
@@ -223,18 +223,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "locked-in-60",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-04": 0
+      "2021-09-04": 27
     }
   }
 ]
