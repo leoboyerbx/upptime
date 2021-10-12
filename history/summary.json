@@ -76,18 +76,20 @@
     "url": "cors-proxy.lbxs.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cors-anywhere-proxy-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 737,
     "timeDay": 589,
     "timeWeek": 871,
     "timeMonth": 752,
     "timeYear": 737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 2
+    }
   },
   {
     "name": "**Demo website**: hackathon",
@@ -112,10 +114,10 @@
     "url": "plateformes.leoboyer.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "demo-website-plateformes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
@@ -123,17 +125,19 @@
     "timeWeek": 628,
     "timeMonth": 582,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 2
+    }
   },
   {
     "name": "Piou, the grape game",
     "url": "piou.app",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "piou-the-grape-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1141,
@@ -141,17 +145,19 @@
     "timeWeek": 1231,
     "timeMonth": 1187,
     "timeYear": 1141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 2
+    }
   },
   {
     "name": "ColorJS",
     "url": "www.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
@@ -159,17 +165,19 @@
     "timeWeek": 714,
     "timeMonth": 681,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 1
+    }
   },
   {
     "name": "ColorJS CDN",
     "url": "cdn.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 766,
@@ -177,17 +185,19 @@
     "timeWeek": 870,
     "timeMonth": 785,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 1
+    }
   },
   {
     "name": "ColorJS Sync service",
     "url": "sync.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js-sync-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
@@ -195,16 +205,18 @@
     "timeWeek": 727,
     "timeMonth": 672,
     "timeYear": 652,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 1
+    }
   },
   {
     "name": "\"Flirt sans épines\" --> production",
     "url": "www.flirtsansepines.cf",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flirt-sans-epines-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -214,6 +226,7 @@
     "timeMonth": 1064,
     "timeYear": 1359,
     "dailyMinutesDown": {
+      "2021-10-12": 0,
       "2021-09-04": 27
     }
   },
