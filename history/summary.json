@@ -4,36 +4,40 @@
     "url": "www.leoboyer.fr",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "leo-boyer-portfolio-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 717,
     "timeWeek": 826,
     "timeMonth": 808,
     "timeYear": 792,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 5
+    }
   },
   {
     "name": "Assets",
     "url": "assets.leoboyer.fr",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "assets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 788,
     "timeDay": 724,
     "timeWeek": 879,
     "timeMonth": 825,
     "timeYear": 788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 5
+    }
   },
   {
     "name": "pnkStartpage",
@@ -58,118 +62,130 @@
     "url": "ws.start.lbxs.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pnk-startpage-web-servuce",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 775,
     "timeDay": 833,
     "timeWeek": 834,
     "timeMonth": 802,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 4
+    }
   },
   {
     "name": "CORSAnywhere proxy instance",
     "url": "cors-proxy.lbxs.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cors-anywhere-proxy-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 736,
     "timeDay": 681,
     "timeWeek": 832,
     "timeMonth": 752,
     "timeYear": 736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 4
+    }
   },
   {
     "name": "**Demo website**: hackathon",
     "url": "hackathon.leoboyer.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "demo-website-hackathon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 696,
     "timeWeek": 795,
     "timeMonth": 771,
     "timeYear": 759,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "**Demo website**: plateformes",
     "url": "plateformes.leoboyer.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "demo-website-plateformes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 560,
     "timeDay": 500,
     "timeWeek": 593,
     "timeMonth": 579,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "Piou, the grape game",
     "url": "piou.app",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "piou-the-grape-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1139,
     "timeDay": 1038,
     "timeWeek": 1174,
     "timeMonth": 1183,
     "timeYear": 1139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "ColorJS",
     "url": "www.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 663,
     "timeDay": 553,
     "timeWeek": 659,
     "timeMonth": 674,
     "timeYear": 663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 2
+    }
   },
   {
     "name": "ColorJS CDN",
     "url": "cdn.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
@@ -177,17 +193,19 @@
     "timeWeek": 806,
     "timeMonth": 776,
     "timeYear": 764,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 2
+    }
   },
   {
     "name": "ColorJS Sync service",
     "url": "sync.colorjs.cc",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "color-js-sync-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
@@ -195,17 +213,19 @@
     "timeWeek": 666,
     "timeMonth": 665,
     "timeYear": 650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "\"Flirt sans épines\" --> production",
     "url": "www.flirtsansepines.cf",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flirt-sans-epines-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1458,
@@ -214,6 +234,7 @@
     "timeMonth": 1404,
     "timeYear": 1458,
     "dailyMinutesDown": {
+      "2021-10-13": 1,
       "2021-09-04": 27
     }
   },
@@ -222,9 +243,9 @@
     "url": "www.lockedin60.ml",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "locked-in-60",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -234,6 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-13": 0,
       "2021-09-04": 39
     }
   }
