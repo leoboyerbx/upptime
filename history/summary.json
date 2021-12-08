@@ -245,9 +245,9 @@
     "url": "www.lockedin60.ml",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "locked-in-60",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.14%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -257,6 +257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-12-08": 0,
       "2021-12-07": 27,
       "2021-10-13": 55,
       "2021-09-04": 39
