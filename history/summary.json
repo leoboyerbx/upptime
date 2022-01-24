@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 786,
-    "timeDay": 762,
-    "timeWeek": 698,
-    "timeMonth": 730,
+    "timeDay": 695,
+    "timeWeek": 675,
+    "timeMonth": 732,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2021-10-13": 60
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 784,
-    "timeDay": 694,
-    "timeWeek": 704,
-    "timeMonth": 749,
-    "timeYear": 784,
+    "time": 783,
+    "timeDay": 617,
+    "timeWeek": 671,
+    "timeMonth": 746,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2021-10-13": 59
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 382,
-    "timeDay": 854,
-    "timeWeek": 415,
-    "timeMonth": 343,
+    "timeDay": 226,
+    "timeWeek": 379,
+    "timeMonth": 344,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2021-11-16": 32
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 778,
-    "timeDay": 701,
-    "timeWeek": 739,
+    "time": 777,
+    "timeDay": 606,
+    "timeWeek": 681,
     "timeMonth": 740,
-    "timeYear": 778,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2021-10-13": 59
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 717,
-    "timeDay": 632,
-    "timeWeek": 639,
-    "timeMonth": 664,
+    "timeDay": 631,
+    "timeWeek": 618,
+    "timeMonth": 665,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2021-10-13": 58
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 766,
-    "timeDay": 704,
-    "timeWeek": 749,
-    "timeMonth": 749,
+    "timeDay": 655,
+    "timeWeek": 715,
+    "timeMonth": 747,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2021-10-13": 58
@@ -131,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 570,
-    "timeDay": 1420,
-    "timeWeek": 671,
-    "timeMonth": 582,
+    "timeDay": 459,
+    "timeWeek": 646,
+    "timeMonth": 579,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2021-10-13": 58
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1149,
-    "timeDay": 1035,
-    "timeWeek": 1108,
-    "timeMonth": 1126,
-    "timeYear": 1149,
+    "time": 1148,
+    "timeDay": 999,
+    "timeWeek": 1063,
+    "timeMonth": 1123,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2021-10-13": 57
     }
@@ -170,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 654,
-    "timeDay": 533,
-    "timeWeek": 582,
-    "timeMonth": 611,
-    "timeYear": 654,
+    "time": 653,
+    "timeDay": 566,
+    "timeWeek": 557,
+    "timeMonth": 612,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2021-10-13": 57
     }
@@ -191,9 +191,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 754,
-    "timeDay": 648,
-    "timeWeek": 703,
-    "timeMonth": 711,
+    "timeDay": 657,
+    "timeWeek": 661,
+    "timeMonth": 712,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2021-10-13": 56
@@ -211,9 +211,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 644,
-    "timeDay": 537,
-    "timeWeek": 606,
-    "timeMonth": 612,
+    "timeDay": 536,
+    "timeWeek": 562,
+    "timeMonth": 611,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2021-10-13": 56
@@ -230,11 +230,11 @@
     "uptimeWeek": "69.99%",
     "uptimeMonth": "88.41%",
     "uptimeYear": "98.16%",
-    "time": 1664,
-    "timeDay": 646,
-    "timeWeek": 2084,
-    "timeMonth": 2271,
-    "timeYear": 1664,
+    "time": 1658,
+    "timeDay": 355,
+    "timeWeek": 2070,
+    "timeMonth": 2257,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2022-01-19": 834,
       "2022-01-18": 1440,
@@ -254,18 +254,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "locked-in-60",
     "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "69.88%",
-    "uptimeMonth": "88.28%",
-    "uptimeYear": "98.12%",
+    "uptime": "98.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "70.00%",
+    "uptimeMonth": "88.31%",
+    "uptimeYear": "98.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-23": 12,
       "2022-01-19": 834,
       "2022-01-18": 1440,
       "2022-01-17": 751,
