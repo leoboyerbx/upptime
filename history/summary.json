@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 789,
-    "timeDay": 951,
-    "timeWeek": 845,
-    "timeMonth": 759,
-    "timeYear": 789,
+    "time": 790,
+    "timeDay": 968,
+    "timeWeek": 898,
+    "timeMonth": 767,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2021-10-13": 60
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 786,
-    "timeDay": 849,
-    "timeWeek": 820,
-    "timeMonth": 773,
-    "timeYear": 786,
+    "time": 787,
+    "timeDay": 962,
+    "timeWeek": 868,
+    "timeMonth": 777,
+    "timeYear": 787,
     "dailyMinutesDown": {
       "2021-10-13": 59
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 383,
-    "timeDay": 411,
-    "timeWeek": 435,
-    "timeMonth": 374,
+    "timeDay": 416,
+    "timeWeek": 460,
+    "timeMonth": 379,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2021-11-16": 32
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 779,
-    "timeDay": 880,
-    "timeWeek": 803,
-    "timeMonth": 756,
-    "timeYear": 779,
+    "time": 780,
+    "timeDay": 847,
+    "timeWeek": 820,
+    "timeMonth": 763,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2021-10-13": 59
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 720,
-    "timeDay": 870,
-    "timeWeek": 772,
-    "timeMonth": 687,
-    "timeYear": 720,
+    "time": 721,
+    "timeDay": 887,
+    "timeWeek": 799,
+    "timeMonth": 690,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2021-10-13": 58
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 769,
-    "timeDay": 874,
-    "timeWeek": 835,
-    "timeMonth": 773,
-    "timeYear": 769,
+    "time": 770,
+    "timeDay": 881,
+    "timeWeek": 858,
+    "timeMonth": 779,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2021-10-13": 58
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 572,
-    "timeDay": 671,
-    "timeWeek": 754,
-    "timeMonth": 600,
-    "timeYear": 572,
+    "time": 573,
+    "timeDay": 649,
+    "timeWeek": 768,
+    "timeMonth": 603,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2021-10-13": 58
     }
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1153,
-    "timeDay": 1326,
-    "timeWeek": 1245,
-    "timeMonth": 1159,
-    "timeYear": 1153,
+    "time": 1154,
+    "timeDay": 1325,
+    "timeWeek": 1279,
+    "timeMonth": 1164,
+    "timeYear": 1154,
     "dailyMinutesDown": {
       "2021-10-13": 57
     }
@@ -170,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 655,
-    "timeDay": 711,
-    "timeWeek": 671,
-    "timeMonth": 633,
-    "timeYear": 655,
+    "time": 656,
+    "timeDay": 746,
+    "timeWeek": 704,
+    "timeMonth": 636,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2021-10-13": 57
     }
@@ -191,9 +191,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 758,
-    "timeDay": 859,
-    "timeWeek": 826,
-    "timeMonth": 744,
+    "timeDay": 877,
+    "timeWeek": 859,
+    "timeMonth": 748,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2021-10-13": 56
@@ -210,11 +210,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 647,
-    "timeDay": 763,
-    "timeWeek": 692,
-    "timeMonth": 639,
-    "timeYear": 647,
+    "time": 648,
+    "timeDay": 747,
+    "timeWeek": 725,
+    "timeMonth": 644,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2021-10-13": 56
     }
@@ -225,16 +225,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flirt-sans-epines-production",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "90.34%",
-    "uptimeYear": "98.18%",
-    "time": 1633,
-    "timeDay": 529,
-    "timeWeek": 622,
-    "timeMonth": 2142,
-    "timeYear": 1633,
+    "uptimeMonth": "91.84%",
+    "uptimeYear": "98.19%",
+    "time": 1628,
+    "timeDay": 496,
+    "timeWeek": 641,
+    "timeMonth": 2181,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2022-01-26": 16,
       "2022-01-25": 19,
@@ -256,11 +256,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "locked-in-60",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "90.29%",
-    "uptimeYear": "98.15%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "98.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
